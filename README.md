@@ -82,7 +82,7 @@ This project is licensed under the MIT License.
 
 ## 🔗 Let's Connect!
 Feel free to reach out for collaborations, improvements, or suggestions! 🚀
-![image](https://github.com/user-attachments/assets/d8c8d39b-9237-49f0-8216-d6476d09bf4f)(https://www.instagram.com/vikram_offl/) 
+**![Instagram](https://www.instagram.com/vikram_offl/)** 
 
 
 ---
