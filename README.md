@@ -3,7 +3,7 @@
 A **real-time threat detection system** designed to help businesses and cybersecurity teams **proactively monitor** Telegram channels for potential **data breaches, leaks, and cyber threats** — without the need for heavy storage or slow manual investigations.
 
 <p align="center">
-  <img src="https://github.com/vikram-offl/TelInt/blob/main/assets/Tellnt.gif" alt="Demo" />
+  <img src="https://github.com/vikram-offl/TelInt/blob/main/assets/Tellnt.gif" alt="Demo" width="700" />
 </p>
 
 ---
