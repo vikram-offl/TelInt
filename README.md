@@ -83,9 +83,15 @@ This project is licensed under the MIT License.
 ## 🔗 Let's Connect!
 Feel free to reach out for collaborations, improvements, or suggestions! 🚀
 
-<p align="center">
+<p>
   <a href="https://www.instagram.com/vikram_offl/" target="_blank">
     <strong>📷 Follow Me on Instagram</strong>
+  </a>
+</p>
+
+<p>
+  <a href="https://in.linkedin.com/in/vikramoffl" target="_blank">
+    <strong>🤓 Follow Me on LinkedIn</strong>
   </a>
 </p>
 
