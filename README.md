@@ -21,15 +21,7 @@ A **real-time threat detection system** designed to help businesses and cybersec
 - Flask
 - asyncio
 - Telethon (Telegram client library)
-
----
-
-## 📈 How It Works
-1. Upload a list of Telegram channels to monitor.
-2. Enter the keywords or company names to search for.
-3. The tool automatically connects to Telegram, scans messages, and retrieve messages from public channels in real-time.
-4. Results are shown instantly via a clean Flask web interface.
-
+- 
 ---
 
 ## 🎯 Why This Tool?
