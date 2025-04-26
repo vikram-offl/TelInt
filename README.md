@@ -34,7 +34,7 @@ This tool offers a **lightweight, proactive, real-time** solution — helping or
 
 **Note**
 First, make sure that you have configured your Telegram's <API-ID> and <API_HASH> in .env file
-You can get it from here 👉 ![Telegram Credentials](https://core.telegram.org/api/obtaining_api_id)
+You can get it from here 👉 <a href="https://core.telegram.org/api/obtaining_api_id" target="_blank"> 
 
 ```bash
 git clone https://github.com/vikram-offl/TelInt.git
