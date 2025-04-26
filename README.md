@@ -32,9 +32,13 @@ This tool offers a **lightweight, proactive, real-time** solution — helping or
 
 ## ⚡ Installation
 
+
+
 **Note**
 First, make sure that you have configured your Telegram's <API-ID> and <API_HASH> in .env file
-You can get it from here 👉 <p> <a href="https://core.telegram.org/api/obtaining_api_id" target="_blank"> </p>
+You can get it from here 👉 <a href="https://core.telegram.org/api/obtaining_api_id" target="_blank">Telegram API ID Page</a>
+
+
 
 ```bash
 git clone https://github.com/vikram-offl/TelInt.git
