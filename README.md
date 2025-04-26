@@ -8,6 +8,11 @@ A **real-time threat detection system** designed to help businesses and cybersec
 
 ---
 
+
+# 🔎 TelInt - Telegram Threat Intelligence
+
+---
+
 ## 🚀 Features
 - 🔍 **Real-Time Monitoring** of Telegram channels.
 - 🛡️ **Early Detection** of potential breaches and leaks.
