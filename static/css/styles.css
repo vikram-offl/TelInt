@@ -1,0 +1,126 @@
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #34495e;
+    --accent-color: #e74c3c;
+    --light-color: #ecf0f1;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f5f5;
+}
+
+.sidebar {
+    background-color: var(--primary-color);
+    color: white;
+    height: 100vh;
+    position: fixed;
+    padding-top: 20px;
+}
+
+.sidebar .nav-link {
+    color: var(--light-color);
+    margin-bottom: 5px;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.sidebar .nav-link:hover, .sidebar .nav-link.active {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+.sidebar .nav-link i {
+    margin-right: 10px;
+}
+
+.main-content {
+    margin-left: 250px;
+    padding: 20px;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    border: none;
+}
+
+.card-header {
+    background-color: white;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    font-weight: 600;
+}
+
+.alert-critical {
+    border-left: 4px solid var(--accent-color);
+}
+
+.alert-high {
+    border-left: 4px solid #f39c12;
+}
+
+.alert-medium {
+    border-left: 4px solid #f1c40f;
+}
+
+.alert-low {
+    border-left: 4px solid #3498db;
+}
+
+.threat-indicator {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.indicator-critical {
+    background-color: var(--accent-color);
+}
+
+.indicator-high {
+    background-color: #f39c12;
+}
+
+.indicator-medium {
+    background-color: #f1c40f;
+}
+
+.indicator-low {
+    background-color: #3498db;
+}
+
+.search-box {
+    position: relative;
+}
+
+.search-box i {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    color: #7f8c8d;
+}
+
+.search-box input {
+    padding-left: 35px;
+    border-radius: 20px;
+    border: 1px solid #ddd;
+}
+
+.user-profile img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/* Additional styles for search results */
+#searchResultsSection {
+    transition: all 0.3s ease;
+}
+
+#searchResultsTable tr:hover {
+    background-color: rgba(0, 0, 0, 0.02);
+}
