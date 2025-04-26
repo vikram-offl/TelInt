@@ -83,10 +83,11 @@ This project is licensed under the MIT License.
 ## 🔗 Let's Connect!
 Feel free to reach out for collaborations, improvements, or suggestions! 🚀
 
-<p>
-  <a src="https://www.instagram.com/vikram_offl/" alt="Instagram">Instagram</a>
+<p align="center">
+  <a href="https://www.instagram.com/vikram_offl/" target="_blank">
+    <strong>📷 Follow Me on Instagram</strong>
+  </a>
 </p>
-
 
 ---
 
