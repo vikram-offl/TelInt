@@ -11,10 +11,8 @@ A **real-time threat detection system** designed to help businesses and cybersec
 ## 🚀 Features
 - 🔍 **Real-Time Monitoring** of Telegram channels.
 - 🛡️ **Early Detection** of potential breaches and leaks.
-- ⚡ **Fast Keyword-Based Scanning** with AI-powered matching.
 - 📄 **No Heavy Storage** — lightweight, on-the-fly scanning.
 - 🔗 **Direct Links** to suspicious posts for quick action.
-- 🧠 **Context-Aware Detection** to reduce false positives.
 
 ---
 
@@ -29,7 +27,7 @@ A **real-time threat detection system** designed to help businesses and cybersec
 ## 📈 How It Works
 1. Upload a list of Telegram channels to monitor.
 2. Enter the keywords or company names to search for.
-3. The tool automatically connects to Telegram, scans messages, and flags suspicious posts in real-time.
+3. The tool automatically connects to Telegram, scans messages, and retrieve messages from public channels in real-time.
 4. Results are shown instantly via a clean Flask web interface.
 
 ---
@@ -42,13 +40,15 @@ This tool offers a **lightweight, proactive, real-time** solution — helping or
 
 ## ⚡ Installation
 
+**Note**
+First, make sure that you have configured your Telegram's <API-ID> and <API_HASH> in .env file
+You can get it from here 👉 ![Telegram Credentials](https://core.telegram.org/api/obtaining_api_id)
+
 ```bash
-git clone https://github.com/yourusername/telegram-threat-detector.git
-cd telegram-threat-detector
+git clone https://github.com/vikram-offl/TelInt.git
+cd TelInt
 pip install -r requirements.txt
 ```
-
-Set your Telegram **API_ID** and **API_HASH** in the `app.py` file.
 
 Run the server:
 
@@ -59,12 +59,6 @@ or
 ```bash
 flask run
 ```
-
----
-
-## 📸 Demo Screenshot
-
-> *(Add a simple screenshot here showing your search page and some flagged results.)*
 
 ---
 
@@ -88,6 +82,8 @@ This project is licensed under the MIT License.
 
 ## 🔗 Let's Connect!
 Feel free to reach out for collaborations, improvements, or suggestions! 🚀
+![image](https://github.com/user-attachments/assets/d8c8d39b-9237-49f0-8216-d6476d09bf4f)(https://www.instagram.com/vikram_offl/) 
+
 
 ---
 
@@ -95,6 +91,3 @@ Feel free to reach out for collaborations, improvements, or suggestions! 🚀
 
 ---
 
-Would you also like me to create a simple **table of contents** at the top (clickable links inside the README)?  
-It makes it even more professional! 🚀🔥  
-Want me to add it too? 📚
